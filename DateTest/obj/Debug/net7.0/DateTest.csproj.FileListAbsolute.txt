@@ -1,0 +1,14 @@
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\bin\Debug\net7.0\DateTest.exe
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\bin\Debug\net7.0\DateTest.deps.json
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\bin\Debug\net7.0\DateTest.runtimeconfig.json
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\bin\Debug\net7.0\DateTest.dll
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\bin\Debug\net7.0\DateTest.pdb
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\obj\Debug\net7.0\DateTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\obj\Debug\net7.0\DateTest.AssemblyInfoInputs.cache
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\obj\Debug\net7.0\DateTest.AssemblyInfo.cs
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\obj\Debug\net7.0\DateTest.csproj.CoreCompileInputs.cache
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\obj\Debug\net7.0\DateTest.dll
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\obj\Debug\net7.0\refint\DateTest.dll
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\obj\Debug\net7.0\DateTest.pdb
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\obj\Debug\net7.0\DateTest.genruntimeconfig.cache
+C:\CODEBITS\C-SHARP\labTask\DateTest\DateTest\obj\Debug\net7.0\ref\DateTest.dll
